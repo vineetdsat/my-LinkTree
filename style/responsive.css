@@ -21,16 +21,17 @@
     }
 
     div.click-here{
-        width: 300px;
+        width: 200px;
         height: 60px;
         background-color: #22c1c3;
         border-radius: 50px;
         margin-top: 5%;
+        margin-left: 25px;
     }
 
     img.icon{
-        width: 50px;
-        height: 50px;
+        width: 30px;
+        height: 30px;
     }
     
 }
